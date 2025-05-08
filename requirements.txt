@@ -1,0 +1,5 @@
+openai
+mysql-connector-python
+python-dotenv
+streamlit
+faker
