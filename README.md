@@ -5,6 +5,7 @@
 [![MySQL](https://img.shields.io/badge/MySQL-banco%20de%20dados-4479A1.svg?style=flat&logo=mysql)](https://www.mysql.com/)
 [![OpenAI](https://img.shields.io/badge/OpenAI-IA%20para%20SQL-0061F2.svg?style=flat&logo=openai)](https://openai.com/)
 
+
 ## Descrição
 
 **dioBank Consultas** é um sistema interativo que permite aos usuários realizar consultas a um banco de dados MySQL utilizando linguagem natural. O sistema utiliza o poder da **OpenAI GPT-4** para converter perguntas em SQL de maneira eficiente. A interface do usuário é construída com **Streamlit**, proporcionando uma experiência intuitiva para quem deseja interagir com o banco de dados sem precisar saber SQL.
